@@ -1,7 +1,7 @@
 Local Envoy Live 
 Monitor by Erik Eidt (c) 2025, version 0.1
 
-Original location: https://github.com/LocalEnvoyLiveMonitor
+Original location: https://github.com/erikeidt/LocalEnvoyLiveMonitor
 License is MIT Open Source; provided gratis with no claim for fitness of use.
 
 Shows energy production/consumption for Solar, Grid, Bttery and Home.
