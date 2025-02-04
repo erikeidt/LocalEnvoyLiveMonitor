@@ -53,8 +53,6 @@ If this monitor gets errors, hopefully refreshing the page will fix it.
 
 To make this monitor truly local, you're welcome to download this page to your local machine and run it from there (though of course, it won't automatically update when improvements are made here).
 
-(I'm using "Cross Domain CORS", from here: https://chromewebstore.google.com/detail/cross-domain-cors/mjhpgnbimicffchbodmgfnemoghjakai?hl=en-US, with an entry of envoy\.local, which gives this page access to the envoy's local REST server.)
-
-![Picture2](https://github.com/user-attachments/assets/678ecb18-cc0c-464f-a79e-2662e0e26f08)
+(I'm using "Cross Domain CORS" which disabled CORS and allows this page access to the envoy's local REST server.)
 
 
