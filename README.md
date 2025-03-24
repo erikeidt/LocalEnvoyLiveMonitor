@@ -10,7 +10,11 @@ Live at https://erikeidt.github.io/LocalEnvoyLiveMonitor.html
 
 Shows energy production/consumption for Solar, Grid, Battery and Home, live.&nbsp; Here's a screen capture.
 
+v0.1
 ![LELM](https://github.com/user-attachments/assets/2e54d9a9-6a80-41fc-8285-03312339b1a9)
+
+v0.1.7
+![LELM](https://github.com/erikeidt/LocalEnvoyLiveMonitor/blob/main/Picture1.png)
 
 Requires CORS override so that this page can make local enquiries into your Envoy (see more below).
 
